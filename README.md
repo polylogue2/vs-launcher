@@ -13,12 +13,12 @@ Visual Studio Launcher (VSL) is a WPF program in the VS Tools suite that allows 
 
 ### Installation
 
-**Requirements**:
-- Requires .NET 8.
+**Software Requirements**:
+- .NET Desktop 8.
 - Supports all Visual Studio versions from 2019.
 
 **Installation Steps**:
-1. Download the [latest release](https://github.com/polylogue/vs-launcher/releases/latest) of VSLSetup.exe.
+1. Download the [latest release](https://github.com/polylogue2/vs-launcher/releases/latest) of VSLSetup.exe.
 2. Launch the downloaded executable.
 3. Follow the installation prompts. During the installation, you will have options to:
    - Register file associations automatically. (default .SLN)
