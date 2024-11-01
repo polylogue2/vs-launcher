@@ -41,4 +41,4 @@ You can launch VSL from the command line by specifying the path to a file, and o
 ````
 vsl.exe "C:\dev\helloworld.sln" --version 2022_community --admin
 ````
-*This command will open the specified solution using Visual Studio 2022 Community Edition with administrative privileges.*
+> *This command opens a solution using Visual Studio 2022 Community Edition with administrative privileges.*
